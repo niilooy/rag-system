@@ -1,0 +1,24 @@
+RESULTS FOR QUERY: 'What is the impact of AI?'
+================================================================================
+
+RESULT 1 (Similarity Score: 0.9541):
+--------------------------------------------------------------------------------
+Original Text: Among the most difficult problems in knowledge representation are the breadth of commonsense knowledge (the set of atomic facts that the average person knows is enormous); and the sub-symbolic form of most commonsense knowledge (much of what people know is not represented as "facts" or "statements" that they could express verbally). There is also the difficulty of knowledge acquisition, the problem of obtaining knowledge for AI applications.
+
+Processed Text: among difficult problems knowledge representation breadth commonsense knowledge set atomic facts average person knows enormous form commonsense knowledge much people know represented facts statements could express verbally also difficulty knowledge acquisition problem obtaining knowledge ai applications
+--------------------------------------------------------------------------------
+
+RESULT 2 (Similarity Score: 0.9525):
+--------------------------------------------------------------------------------
+Original Text: The philosophy of mind does not know whether a machine can have a mind, consciousness and mental states, in the same sense that human beings do. This issue considers the internal experiences of the machine, rather than its external behavior. Mainstream AI research considers this issue irrelevant because it does not affect the goals of the field: to build machines that can solve problems using intelligence. Russell and Norvig add that "he additional project of making a machine conscious in exactly the way humans are is not one that we are equipped to take on." However, the question has become central to the philosophy of mind. It is also typically the central question at issue in artificial intelligence in fiction.
+
+Processed Text: philosophy mind know whether machine mind consciousness mental states sense human beings issue considers internal experiences machine rather external behavior mainstream ai research considers issue irrelevant affect goals field build machines solve problems using intelligence russell norvig add additional project making machine conscious exactly way humans one equipped take however question become central philosophy mind also typically central question issue artificial intelligence fiction
+--------------------------------------------------------------------------------
+
+RESULT 3 (Similarity Score: 0.9477):
+--------------------------------------------------------------------------------
+Original Text: McCarthy defines intelligence as "the computational part of the ability to achieve goals in the world". Another AI founder, Marvin Minsky, similarly describes it as "the ability to solve hard problems". The leading AI textbook defines it as the study of agents that perceive their environment and take actions that maximize their chances of achieving defined goals. These definitions view intelligence in terms of well-defined problems with well-defined solutions, where both the difficulty of the problem and the performance of the program are direct measures of the "intelligence" of the machine—and no other philosophical discussion is required, or may not even be possible.
+
+Processed Text: mccarthy defines intelligence computational part ability achieve goals world another ai founder marvin minsky similarly describes ability solve hard problems leading ai textbook defines study agents perceive environment take actions maximize chances achieving defined goals definitions view intelligence terms problems solutions difficulty problem performance program direct measures intelligence philosophical discussion required may even possible
+--------------------------------------------------------------------------------
+

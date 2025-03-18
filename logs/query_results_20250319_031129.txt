@@ -1,0 +1,38 @@
+RESULTS FOR QUERY: 'What is the impact of AI?'
+================================================================================
+
+RESULT 1 (Similarity Score: 0.9541):
+--------------------------------------------------------------------------------
+Original Text: Among the most difficult problems in knowledge representation are the breadth of commonsense knowledge (the set of atomic facts that the average person knows is enormous); and the sub-symbolic form of most commonsense knowledge (much of what people know is not represented as "facts" or "statements" that they could express verbally). There is also the difficulty of knowledge acquisition, the problem of obtaining knowledge for AI applications.
+
+Processed Text: among difficult problems knowledge representation breadth commonsense knowledge set atomic facts average person knows enormous form commonsense knowledge much people know represented facts statements could express verbally also difficulty knowledge acquisition problem obtaining knowledge ai applications
+--------------------------------------------------------------------------------
+
+RESULT 2 (Similarity Score: 0.9525):
+--------------------------------------------------------------------------------
+Original Text: The philosophy of mind does not know whether a machine can have a mind, consciousness and mental states, in the same sense that human beings do. This issue considers the internal experiences of the machine, rather than its external behavior. Mainstream AI research considers this issue irrelevant because it does not affect the goals of the field: to build machines that can solve problems using intelligence. Russell and Norvig add that "he additional project of making a machine conscious in exactly the way humans are is not one that we are equipped to take on." However, the question has become central to the philosophy of mind. It is also typically the central question at issue in artificial intelligence in fiction.
+
+Processed Text: philosophy mind know whether machine mind consciousness mental states sense human beings issue considers internal experiences machine rather external behavior mainstream ai research considers issue irrelevant affect goals field build machines solve problems using intelligence russell norvig add additional project making machine conscious exactly way humans one equipped take however question become central philosophy mind also typically central question issue artificial intelligence fiction
+--------------------------------------------------------------------------------
+
+RESULT 3 (Similarity Score: 0.9477):
+--------------------------------------------------------------------------------
+Original Text: McCarthy defines intelligence as "the computational part of the ability to achieve goals in the world". Another AI founder, Marvin Minsky, similarly describes it as "the ability to solve hard problems". The leading AI textbook defines it as the study of agents that perceive their environment and take actions that maximize their chances of achieving defined goals. These definitions view intelligence in terms of well-defined problems with well-defined solutions, where both the difficulty of the problem and the performance of the program are direct measures of the "intelligence" of the machine—and no other philosophical discussion is required, or may not even be possible.
+
+Processed Text: mccarthy defines intelligence computational part ability achieve goals world another ai founder marvin minsky similarly describes ability solve hard problems leading ai textbook defines study agents perceive environment take actions maximize chances achieving defined goals definitions view intelligence terms problems solutions difficulty problem performance program direct measures intelligence philosophical discussion required may even possible
+--------------------------------------------------------------------------------
+
+RESULT 4 (Similarity Score: 0.9454):
+--------------------------------------------------------------------------------
+Original Text: David Chalmers identified two problems in understanding the mind, which he named the "hard" and "easy" problems of consciousness. The easy problem is understanding how the brain processes signals, makes plans and controls behavior. The hard problem is explaining how this feels or why it should feel like anything at all, assuming we are right in thinking that it truly does feel like something (Dennett's consciousness illusionism says this is an illusion). While human information processing is easy to explain, human subjective experience is difficult to explain. For example, it is easy to imagine a color-blind person who has learned to identify which objects in their field of view are red, but it is not clear what would be required for the person to know what red looks like.
+
+Processed Text: david chalmers identified two problems understanding mind named hard easy problems consciousness easy problem understanding brain processes signals makes plans controls behavior hard problem explaining feels feel like anything assuming right thinking truly feel like something dennett consciousness illusionism says illusion human information processing easy explain human subjective experience difficult explain example easy imagine person learned identify objects field view red clear would required person know red looks like
+--------------------------------------------------------------------------------
+
+RESULT 5 (Similarity Score: 0.9450):
+--------------------------------------------------------------------------------
+Original Text: Computationalism is the position in the philosophy of mind that the human mind is an information processing system and that thinking is a form of computing. Computationalism argues that the relationship between mind and body is similar or identical to the relationship between software and hardware and thus may be a solution to the mind–body problem. This philosophical position was inspired by the work of AI researchers and cognitive scientists in the 1960s and was originally proposed by philosophers Jerry Fodor and Hilary Putnam.
+
+Processed Text: computationalism position philosophy mind human mind information processing system thinking form computing computationalism argues relationship mind body similar identical relationship software hardware thus may solution problem philosophical position inspired work ai researchers cognitive scientists originally proposed philosophers jerry fodor hilary putnam
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,23 @@
+2025-03-19 03:08:44,486 - __main__ - INFO - Starting RAG pipeline with query: 'What is the impact of AI?'
+2025-03-19 03:08:44,486 - __main__ - INFO - Using URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+2025-03-19 03:08:44,486 - __main__ - INFO - Step 1: Extracting and cleaning data from Wikipedia...
+2025-03-19 03:08:45,454 - __main__ - INFO - Successfully extracted and cleaned 222 chunks from Wikipedia.
+2025-03-19 03:08:45,454 - __main__ - INFO - Step 2: Creating embeddings for chunks using multiprocessing...
+2025-03-19 03:08:45,454 - embedding_creation - INFO - Loading word embedding model: glove-wiki-gigaword-100
+2025-03-19 03:08:45,516 - gensim.models.keyedvectors - INFO - loading projection weights from /Users/niloyghosh/gensim-data/glove-wiki-gigaword-100/glove-wiki-gigaword-100.gz
+2025-03-19 03:09:03,669 - gensim.utils - INFO - KeyedVectors lifecycle event {'msg': 'loaded (400000, 100) matrix of type float32 from /Users/niloyghosh/gensim-data/glove-wiki-gigaword-100/glove-wiki-gigaword-100.gz', 'binary': False, 'encoding': 'utf8', 'datetime': '2025-03-19T03:09:03.634399', 'gensim': '4.3.1', 'python': '3.11.6 (v3.11.6:8b6ee5ba3b, Oct  2 2023, 11:18:21) [Clang 13.0.0 (clang-1300.0.29.30)]', 'platform': 'macOS-15.3.2-arm64-arm-64bit', 'event': 'load_word2vec_format'}
+2025-03-19 03:09:03,670 - embedding_creation - INFO - Model loaded successfully. Vector size: 100
+2025-03-19 03:09:03,670 - embedding_creation - INFO - Creating embeddings using 8 processes
+2025-03-19 03:09:22,717 - embedding_creation - INFO - Created embeddings for 222 chunks
+2025-03-19 03:09:22,718 - __main__ - INFO - Successfully created embeddings for 222 chunks.
+2025-03-19 03:09:22,718 - __main__ - INFO - Step 3: Creating embedding for the query...
+2025-03-19 03:09:22,718 - embedding_creation - INFO - Creating embeddings using 1 processes
+2025-03-19 03:09:24,379 - embedding_creation - INFO - Created embeddings for 1 chunks
+2025-03-19 03:09:24,380 - __main__ - INFO - Successfully created embedding for the query.
+2025-03-19 03:09:24,380 - __main__ - INFO - Step 4: Retrieving relevant documents using threading...
+2025-03-19 03:09:24,424 - document_retrieval - INFO - Retrieved 3 documents
+2025-03-19 03:09:24,424 - __main__ - INFO - Successfully retrieved 3 relevant chunks.
+2025-03-19 03:09:24,424 - __main__ - INFO - Step 5: Processing the retrieved chunks asynchronously...
+2025-03-19 03:09:24,445 - text_processing - INFO - Processed 3 chunks successfully
+2025-03-19 03:09:24,445 - __main__ - INFO - Successfully processed 3 chunks.
+2025-03-19 03:09:24,446 - __main__ - INFO - Results saved to logs/query_results_20250319_030924.txt
