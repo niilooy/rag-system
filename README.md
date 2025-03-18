@@ -172,8 +172,8 @@ The project includes unit tests for all components using pytest. The tests are l
 The system outputs:
 
 1. A ranked list of the top k chunks with their relevance scores, printed to the console.
-2. Detailed logs saved to the `src/logs` directory.
-3. Results saved to a text file in the `src/logs` directory.
+2. Detailed logs saved to the `logs` directory.
+3. Results saved to a text file in the `logs` directory.
 
 ## Example Output
 
@@ -185,7 +185,7 @@ For the query "What is the impact of AI?", the system will:
 4. Retrieve the top 3 most relevant chunks using threading.
 5. Process the retrieved chunks asynchronously.
 6. Print the results to the console and saves the results and detailed logs.
-7. Results and logs are saved inside src/logs/.
+7. Results and logs are saved inside logs/.
 
 The output will show the top 3 chunks related to the impact of AI, along with their similarity scores.
 
