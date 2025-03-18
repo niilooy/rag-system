@@ -166,7 +166,6 @@ We maintain a balance between code readability and strict adherence to Pylint ru
 
 The project includes unit tests for all components using pytest. The tests are located in the `tests` directory.
 
-### Running Tests
 
 ## Output
 
